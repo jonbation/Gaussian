@@ -26,7 +26,6 @@ Alternatives:
   - If you have `brew`: `brew install git-lfs`, then `git lfs install`.
   - Otherwise, [download the installer here](https://git-lfs.com/), then `git lfs install`.
 - At least 10gb of free disk space.
-- Recommended: [set up Xcode to format code when you save](https://luisramos.dev/xcode-format-and-save).
 
 ### Building Gauss
 
